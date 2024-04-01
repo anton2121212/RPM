@@ -1,0 +1,8 @@
+C:\Users\Pilot\Desktop\RPM 2lb\bin\Debug\RPM 2lb.exe.config
+C:\Users\Pilot\Desktop\RPM 2lb\bin\Debug\RPM 2lb.exe
+C:\Users\Pilot\Desktop\RPM 2lb\bin\Debug\RPM 2lb.pdb
+C:\Users\Pilot\Desktop\RPM 2lb\obj\Debug\RPM 2lb.csproj.AssemblyReference.cache
+C:\Users\Pilot\Desktop\RPM 2lb\obj\Debug\RPM 2lb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pilot\Desktop\RPM 2lb\obj\Debug\RPM 2lb.csproj.CoreCompileInputs.cache
+C:\Users\Pilot\Desktop\RPM 2lb\obj\Debug\RPM 2lb.exe
+C:\Users\Pilot\Desktop\RPM 2lb\obj\Debug\RPM 2lb.pdb
